@@ -15,7 +15,7 @@ If you use any part of this code, please cite the paper using this:
 >keywords = {convolutional neural networks, deep learning, image denoising, image enhancement, Image denoising, Denoising, Convolution, Network >architectures, Data modeling, Image filtering, Image processing, Image quality, Performance modeling, Visualization},
 >year = {2018},
 >doi = {10.1117/1.JEI.27.5.053024},
->URL = {https://doi.org/10.1117/1.JEI.27.5.053024}
+>URL = {https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-27/issue-5/053024/Exponential-linear-unit-dilated-residual-network-for-digital-image-denoising/10.1117/1.JEI.27.5.053024.short?SSO=1}
 >}
 
 The original paper contains two different variants for gray image denoising - a 10-layer network and a 5-layer network. 
