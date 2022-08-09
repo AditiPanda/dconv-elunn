@@ -1,6 +1,6 @@
 # dconv-elunn
 
-This is an implementation of the gray image denoising model proposed in the paper "Exponential linear unit dilated residual network for digital image denoising".
+This is the official implementation of the gray image denoising model proposed in the paper "Exponential linear unit dilated residual network for digital image denoising".
 
 If you use any part of this code, please cite the paper using this:
 
